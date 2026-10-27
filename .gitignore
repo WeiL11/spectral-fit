@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+# source PDFs are not redistributed
+*.pdf

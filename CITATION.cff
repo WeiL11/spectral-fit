@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "wm-hrf-spectrum: shot-noise model of the white-matter resting-state BOLD spectrum"
+authors:
+  - family-names: Gore
+    given-names: John C.
+  - family-names: Li
+    given-names: Tzu-Wei
+  - family-names: Li
+    given-names: Muwei
+  - family-names: Boschen
+    given-names: Warren W.
+  - family-names: Schilling
+    given-names: Kurt
+  - family-names: Anderson
+    given-names: Adam W.
+  - family-names: Ding
+    given-names: Zhaohua
+  - family-names: Gao
+    given-names: Yurui
+license: MIT
+preferred-citation:
+  type: article
+  title: "The white-matter hemodynamic response acts as a band-pass filter that shapes the resting-state BOLD spectrum"
+  authors:
+    - family-names: Gore
+      given-names: John C.
+    - family-names: Li
+      given-names: Tzu-Wei
+    - family-names: Li
+      given-names: Muwei
+    - family-names: Boschen
+      given-names: Warren W.
+    - family-names: Schilling
+      given-names: Kurt
+    - family-names: Anderson
+      given-names: Adam W.
+    - family-names: Ding
+      given-names: Zhaohua
+    - family-names: Gao
+      given-names: Yurui
+  year: 2026
+  notes: "Submitted"
